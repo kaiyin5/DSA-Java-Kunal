@@ -9,3 +9,5 @@ Follow along the [Youtube Video List](https://www.youtube.com/playlist?list=PL9g
 + 2024/06/23: [Java Architecture](https://youtu.be/4EP8YzcN0hQ?si=367zM_N4Muo4_enz)
 + 2024/06/24: [First Java Program in IntelliJ](https://youtu.be/TAtrPoaJ7gc?si=-C9VkfE6bHIZ1_oK)
 + 2024/06/25: [Java Conditionals & Loops](https://youtu.be/ldYLYRNaucM?si=Swt2PraOrpZZKaNf)
++ 2024/06/27: [Java Switch & Nested Switch](https://youtu.be/mA23x39DjbI)
++ 2024/06/28: [Java Functions](https://youtu.be/mA23x39DjbI)
