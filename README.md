@@ -11,3 +11,4 @@ Follow along the [Youtube Video List](https://www.youtube.com/playlist?list=PL9g
 + 2024/06/25: [Java Conditionals & Loops](https://youtu.be/ldYLYRNaucM?si=Swt2PraOrpZZKaNf)
 + 2024/06/27: [Java Switch & Nested Switch](https://youtu.be/mA23x39DjbI)
 + 2024/06/28: [Java Functions](https://youtu.be/mA23x39DjbI)
++ 2024/07/04: [Java Array and ArrayList](https://www.youtube.com/watch?v=n60Dn0UsbEk)
