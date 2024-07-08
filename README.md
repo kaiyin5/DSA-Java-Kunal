@@ -13,3 +13,4 @@ Follow along the [Youtube Video List](https://www.youtube.com/playlist?list=PL9g
 + 2024/06/28: [Java Functions](https://youtu.be/vvanI8NRlSI)
 + 2024/07/04: [Java Array and ArrayList](https://www.youtube.com/watch?v=n60Dn0UsbEk)
 + 2024/07/06: [Linear Search](https://www.youtube.com/watch?v=_HRA37X8N_Q)
++ 2024/07/08: [Binary Search](https://www.youtube.com/watch?v=f6UU7V3szVw)
